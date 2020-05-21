@@ -58,6 +58,70 @@ namespace NavView24Test
                         About = "Some Info...",
                     }
                 }
+            },
+            new SampleCategory()
+            {
+                Name = "Helpers",
+                Samples = new Sample[] {
+                    new Sample()
+                    {
+                        Name = "Mouse",
+                        About = "Some Info...",
+                    },
+                    new Sample()
+                    {
+                        Name = "OnDevice",
+                        About = "Some Info...",
+                    }
+                }
+            },
+            new SampleCategory()
+            {
+                Name = "Other",
+                Samples = new Sample[] {
+                    new Sample()
+                    {
+                        Name = "Mouse",
+                        About = "Some Info...",
+                    },
+                    new Sample()
+                    {
+                        Name = "OnDevice",
+                        About = "Some Info...",
+                    }
+                }
+            },
+            new SampleCategory()
+            {
+                Name = "Other2",
+                Samples = new Sample[] {
+                    new Sample()
+                    {
+                        Name = "Mouse",
+                        About = "Some Info...",
+                    },
+                    new Sample()
+                    {
+                        Name = "OnDevice",
+                        About = "Some Info...",
+                    }
+                }
+            },
+            new SampleCategory()
+            {
+                Name = "Other3",
+                Samples = new Sample[] {
+                    new Sample()
+                    {
+                        Name = "Mouse",
+                        About = "Some Info...",
+                    },
+                    new Sample()
+                    {
+                        Name = "OnDevice",
+                        About = "Some Info...",
+                    }
+                }
             }
         };
 
